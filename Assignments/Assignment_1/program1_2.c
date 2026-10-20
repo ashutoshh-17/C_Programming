@@ -2,6 +2,17 @@
 
 #include <stdio.h>
 
+////////////////////////////////////////////////////
+//
+//  Function Name : Display
+//  Input         : None
+//  Output        : None
+//  Description   : Prints "Marvellous" 5 times
+//  Date          : 20/10/2026
+//  Author        : Ashutosh Sumurti Waghire
+//
+////////////////////////////////////////////////////
+
 void Display()
 {
     int i = 0;

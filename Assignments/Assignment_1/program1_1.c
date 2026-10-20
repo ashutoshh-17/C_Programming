@@ -2,6 +2,17 @@
 
 #include <stdio.h>
 
+////////////////////////////////////////////////////
+//
+//  Function Name : Divide
+//  Input         : Integer, Integer
+//  Output        : Integer
+//  Description   : Performs division
+//  Date          : 20/10/2026
+//  Author        : Ashutosh Sumurti Waghire
+//
+////////////////////////////////////////////////////
+
 int Divide(int iNo1, int iNo2)
 {
     int iAns = 0;
